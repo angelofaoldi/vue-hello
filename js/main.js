@@ -15,11 +15,13 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        message: 'Hello Vue!'
+        title: 'Hello Vue!'
       }
     }
   }).mount('#app')
 // VUE ________________________
+
+
 
 
 
